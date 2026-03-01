@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Java+Application+Developer;Information+Systems+Designer;Bridging+Business+%26+Technology" alt="Typing SVG" />
 
+<br/>
+
+<img src="robot.svg" width="110" />
+
 </div>
 
 ---
